@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TwilightWren
+- 👋 Hi, I’m Kat!
 - 👀 I’m interested in ... learning "cool" things, whether that its from biology, space, geology, or history
 - 🌱 I’m currently learning ... how to code using Python
 
